@@ -4,7 +4,7 @@ A tool written in Python to visually inspect the LevelDB sets created for Caffe 
 
 **To use the tool:**
  1. Edit `resources/general.ini` and set the caffe path
- 2. Run `inspector -i <leveldb address> 
+ 2. Run `inspector -i <leveldb address>` 
 
 **Current Limitations (V1):**
  1. Only works with grayscale image
